@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.4.2",
-  "latest_build": 206,
-  "release_notes": "• direct inside-app APK download & automatic install updates\n• Added custom dismiss controls in update and error screens\n• Cleaned up redundant manual download links",
+  "latest_version": "v3.4.3",
+  "latest_build": 207,
+  "release_notes": "• Direct internal APK download & background prompt install updates\n• Resolved package conflicts and signature mismatches\n• Improved app performance and background service controls",
   "apk_url": "https://github.com/alok0248/saavnmusic-apk/blob/main/app-release.apk"
 }
