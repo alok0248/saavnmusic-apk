@@ -2,5 +2,5 @@
   "latest_version": "v3.3.0",
   "latest_build": 203,
   "release_notes": "• Added real-time user IP detection\n• Removed Build ID display\n• Integrated software update checks via GitHub",
-  "apk_url": "https://github.com/alok0248/saavnmusic-apk/raw/main/app-release.apk"
+  "apk_url": "https://github.com/alok0248/saavnmusic-apk/blob/main/app-release.apk"
 }
