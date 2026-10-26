@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.4.6.58",
+  "latest_version": "v3.4.6.59",
   "latest_build": 202,
-  "release_notes": "• Settings page rebuilt: one card height, single-line titles and evenly spaced text\n• Bitrate and player chips are equal width and no longer cut off\n• Backup, storage and update buttons share the same size\n• Back now closes an open playlist or jumps from any tab to Home",
+  "release_notes": "• Equalizer, theme and player sections now share one heading size and spacing\n• Section titles stay on a single line instead of wrapping\n• Inner panels use the same rounded corners as the cards\n• Slider values line up with their labels",
   "apk_url": "https://github.com/alok0248/saavnmusic-apk/blob/main/app-release.apk"
 }
