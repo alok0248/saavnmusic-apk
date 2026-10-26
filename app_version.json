@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.4.6.53",
+  "latest_version": "v3.4.6.54",
   "latest_build": 202,
-  "release_notes": "• Direct internal APK download & background prompt install updates\n• Auto-incrementing version name to v3.4.6.53\n• Resolved package conflicts and signature mismatches\n• Leftover temp APK cleanups and package optimization",
+  "release_notes": "• Update to v3.4.6.54\n• Signed with a permanent release key so future updates install over each other\n• Update APK signature is verified before it is installed\n• If Android blocks the install, uninstall the old version once and install this APK",
   "apk_url": "https://github.com/alok0248/saavnmusic-apk/blob/main/app-release.apk"
 }
