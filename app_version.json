@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.4.6.56",
+  "latest_version": "v3.4.6.57",
   "latest_build": 202,
-  "release_notes": "• Full screen: status bar hidden, bottom navigation kept\n• One permanent signing key for every build, so in-app updates install without a package conflict\n• Tap any song to stream it in the current player\n• Art-driven player with blurred album art, double-tap to like, crossfade and sleep timer\n• If Android blocks the install, uninstall the old version once - every later update installs over the app",
+  "release_notes": "• Online playback works again: songs stream from JioSaavn instead of only downloading\n• The player no longer switches itself off when the key server is unreachable\n• Most Searched Songs now shows real trending tracks and every card opens\n• Downloading an online song saves the real track audio",
   "apk_url": "https://github.com/alok0248/saavnmusic-apk/blob/main/app-release.apk"
 }
