@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.4.6.54",
+  "latest_version": "v3.4.6.55",
   "latest_build": 202,
-  "release_notes": "• Update to v3.4.6.54\n• Signed with a permanent release key so future updates install over each other\n• Update APK signature is verified before it is installed\n• If Android blocks the install, uninstall the old version once and install this APK",
+  "release_notes": "• Tap any song to stream it straight in the current player\n• Amazon Music style player: blurred album art backdrop, bigger title block, double-tap to like\n• Crossfade and sleep timer controls inside the player\n• Queue opens at the track that is playing, labels stay on one line\n• If Android blocks the install, uninstall the old version once and install this APK",
   "apk_url": "https://github.com/alok0248/saavnmusic-apk/blob/main/app-release.apk"
 }
