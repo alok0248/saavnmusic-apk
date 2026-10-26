@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.4.6.57",
+  "latest_version": "v3.4.6.58",
   "latest_build": 202,
-  "release_notes": "• Online playback works again: songs stream from JioSaavn instead of only downloading\n• The player no longer switches itself off when the key server is unreachable\n• Most Searched Songs now shows real trending tracks and every card opens\n• Downloading an online song saves the real track audio",
+  "release_notes": "• Settings page rebuilt: one card height, single-line titles and evenly spaced text\n• Bitrate and player chips are equal width and no longer cut off\n• Backup, storage and update buttons share the same size\n• Back now closes an open playlist or jumps from any tab to Home",
   "apk_url": "https://github.com/alok0248/saavnmusic-apk/blob/main/app-release.apk"
 }
