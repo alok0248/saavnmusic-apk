@@ -1,6 +1,6 @@
 {
-    "latest_version":  "v3.4.6.62",
+    "latest_version":  "v3.4.6.63",
     "latest_build":  202,
-    "release_notes":  "• Tapping the mini player (or the song title) now opens the full player and keeps the song playing; hold the bar for song details\n• Three new player pages: Spotify (artwork card, left-aligned details, thin seek bar), Immersive (full-screen artwork, overlaid controls) and Minimal (text only)\n• Player Page Style in Settings -\u003e Player UI \u0026 Customizer is now a proper list of all seven arrangements with a tick on the active one",
+    "release_notes":  "• Encryption key now comes from the server at startup: online playback and new downloads wait for it, and if the server is down the app shows \"Server is down, try after some time\" while offline songs and existing downloads keep playing\n• Downloads page gains a Group By control (Off / Album / Movie) so you can browse and play one group at a time, and the file size now sits on the title line instead of taking its own row\n• Home screen is cleaner: the console line and search box are gone, so Music Languages sits right at the top\n• Lyrics are fetched with the song and stored beside the downloaded file, so the words load and sync with the track\n• All remaining \"JioSaavn\" wording replaced with SaavnMusic",
     "apk_url":  "https://raw.githubusercontent.com/alok0248/saavnmusic-apk/main/app-release.apk"
 }
