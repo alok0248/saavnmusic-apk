@@ -1,6 +1,6 @@
 {
-    "latest_version":  "v3.4.6.61",
+    "latest_version":  "v3.4.6.62",
     "latest_build":  202,
-    "release_notes":  "• Compact player page now shows queue position, what plays next, a slim progress line and elapsed/total time in its middle\n• Four player page styles remain selectable in Settings -\u003e Player UI \u0026 Customizer\n• Settings chips (disc offset, opacity, rotation, brake, crossfade) all sit on one line with equal width",
+    "release_notes":  "• Tapping the mini player (or the song title) now opens the full player and keeps the song playing; hold the bar for song details\n• Three new player pages: Spotify (artwork card, left-aligned details, thin seek bar), Immersive (full-screen artwork, overlaid controls) and Minimal (text only)\n• Player Page Style in Settings -\u003e Player UI \u0026 Customizer is now a proper list of all seven arrangements with a tick on the active one",
     "apk_url":  "https://raw.githubusercontent.com/alok0248/saavnmusic-apk/main/app-release.apk"
 }
