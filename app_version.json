@@ -1,6 +1,6 @@
 {
-    "latest_version":  "v3.4.6.60",
+    "latest_version":  "v3.4.6.61",
     "latest_build":  202,
-    "release_notes":  "• Four switchable player pages: Vinyl Center, Disc Top, Text First and Compact — choose them in Settings → Player UI \u0026 Customizer\n• Compact page uses a clean artwork card and hides the turntable speed bar\n• Fixed the Disc Vertical Position row: every chip now sits on one line with equal width\n• Same single-line fix applied to the opacity, rotation speed, brake and crossfade chip rows",
+    "release_notes":  "• Compact player page now shows queue position, what plays next, a slim progress line and elapsed/total time in its middle\n• Four player page styles remain selectable in Settings -\u003e Player UI \u0026 Customizer\n• Settings chips (disc offset, opacity, rotation, brake, crossfade) all sit on one line with equal width",
     "apk_url":  "https://raw.githubusercontent.com/alok0248/saavnmusic-apk/main/app-release.apk"
 }
